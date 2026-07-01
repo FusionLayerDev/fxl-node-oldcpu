@@ -1,6 +1,6 @@
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
-github.com/0xFusionLayer/fusionhash-go v1.0.0 h1:X9tHtRGG0T29scdhawatNXXjf+ZawwWWRGJCMfkCTBQ=
-github.com/0xFusionLayer/fusionhash-go v1.0.0/go.mod h1:RT8dJw5lTc4evApXBReVxWQTJGzoObp6taBAqxzSDIg=
+github.com/FusionLayerDev/fusionhash-oldcpu v1.0.0 h1:X9tHtRGG0T29scdhawatNXXjf+ZawwWWRGJCMfkCTBQ=
+github.com/FusionLayerDev/fusionhash-oldcpu v1.0.0/go.mod h1:RT8dJw5lTc4evApXBReVxWQTJGzoObp6taBAqxzSDIg=
 github.com/AndreasBriese/bbloom v0.0.0-20190306092124-e2d15f34fcf9/go.mod h1:bOvUY6CB00SOBii9/FifXqc0awNKxLFCL/+pkDPuyl8=
 github.com/Azure/azure-sdk-for-go/sdk/azcore v0.21.1 h1:qoVeMsc9/fh/yhxVaA0obYjVH/oI/ihrOoMwsLS9KSA=
 github.com/Azure/azure-sdk-for-go/sdk/azcore v0.21.1/go.mod h1:fBF9PQNqB8scdgpZ3ufzaLntG0AG7C1WjPMsiFOmfHM=

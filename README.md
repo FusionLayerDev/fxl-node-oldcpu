@@ -98,7 +98,7 @@ Design goals:
 
 Learn more:
 
-https://github.com/0xFusionLayer/fusionhash-go
+https://github.com/FusionLayerDev/fusionhash-oldcpu
 
 ---
 
@@ -108,7 +108,7 @@ https://github.com/0xFusionLayer/fusionhash-go
 
 GPU-focused Proof-of-Work algorithm:
 
-https://github.com/0xFusionLayer/fusionhash-go
+https://github.com/FusionLayerDev/fusionhash-oldcpu
 
 ### WarpMiner
 

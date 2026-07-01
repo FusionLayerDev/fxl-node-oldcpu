@@ -33,7 +33,7 @@ import (
 	"github.com/ethereum/go-ethereum/log"
 	"golang.org/x/crypto/sha3"
 
-	"github.com/0xFusionLayer/fusionhash-go"
+	"github.com/FusionLayerDev/fusionhash-oldcpu"
 )
 
 const (

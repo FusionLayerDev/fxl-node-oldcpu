@@ -66,8 +66,9 @@ var GoerliBootnodes = []string{
 // FusionLayer Bootnodes
 var FusionLayerBootnodes = []string{
 	"enode://921b8259034985c8a3e569ae8ef4158c885b98ee8ccc18561b709d64f7dbad28d3741c35515ce8b8442fc4fcbc8ad5e16de1f83081f44b1e91f1b3bf7b8d9c20@198.177.124.13:30303",
-	
 	"enode://2b403fa9fe2acbe5efa2862ba1456f31651fcecbe006ffbef4c96d67860ed64e18077d2fe3452351ecfc7b543700f683338028a94dce67564c0c974f78ce327b@63.250.41.97:30303",
+	"enode://90c666a518615c0f9a1fc4ef99166fbfbff79a4f675c89cbc09f15a276eaf955cf20a28b79ebe250c29617da875c244cbb28adbdcc6e9a3e25914df3852c9a25@194.67.106.21:30303", //https://baikalmine.com/
+	"enode://90c666a518615c0f9a1fc4ef99166fbfbff79a4f675c89cbc09f15a276eaf955cf20a28b79ebe250c29617da875c244cbb28adbdcc6e9a3e25914df3852c9a25@194.67.106.21:30303", //https://fusion.coin-miners.info/
 
 }
 
